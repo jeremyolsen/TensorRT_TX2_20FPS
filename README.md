@@ -1,3 +1,9 @@
+**Updated for JetPack 3.3
+
+After deploying JetPack 3.3 on Jetson TX2, this code using the TensorRT sample did not work anylonger.
+
+
+
 ## TensorRT_TX2_20FPS
 
 # Objective 
